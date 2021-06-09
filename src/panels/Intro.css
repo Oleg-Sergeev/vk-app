@@ -1,0 +1,13 @@
+.User {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.Polytech_logo {
+  display: block;
+  width: 100%;
+  max-width: 240px;
+  margin: 20px auto;
+}
